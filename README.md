@@ -1,2 +1,2 @@
 # ToDoList
-Created a To Do list website
+Created a to-do list website
